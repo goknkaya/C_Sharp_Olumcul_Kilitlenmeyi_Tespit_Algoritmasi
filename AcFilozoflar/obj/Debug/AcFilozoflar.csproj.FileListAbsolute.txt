@@ -1,0 +1,6 @@
+c:\users\gokha\documents\visual studio 2015\Projects\AcFilozoflar\AcFilozoflar\bin\Debug\AcFilozoflar.exe.config
+c:\users\gokha\documents\visual studio 2015\Projects\AcFilozoflar\AcFilozoflar\bin\Debug\AcFilozoflar.exe
+c:\users\gokha\documents\visual studio 2015\Projects\AcFilozoflar\AcFilozoflar\bin\Debug\AcFilozoflar.pdb
+c:\users\gokha\documents\visual studio 2015\Projects\AcFilozoflar\AcFilozoflar\obj\Debug\AcFilozoflar.csprojResolveAssemblyReference.cache
+c:\users\gokha\documents\visual studio 2015\Projects\AcFilozoflar\AcFilozoflar\obj\Debug\AcFilozoflar.exe
+c:\users\gokha\documents\visual studio 2015\Projects\AcFilozoflar\AcFilozoflar\obj\Debug\AcFilozoflar.pdb
