@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=ZirAP4BlB2I
 
 Her bir kaynaktan tek örnek olması durumuna göre Ölümcül Kilitlenmeyi Tespit  Algoritmasını (Banker Algoritması değil) kodladık. Program, Atanmış ve Max. İstek matrislerini giriş olarak alacak, güvenli durum olup olmadığını ve proseslerin çalışma sırasını, kilitli olup olmadığını vs. çıkış olarak verecektir.
 
-<img src="i.hizliresim.com/jz4l4fi.jpg"></img>
+<img src="https://i.hizliresim.com/jz4l4fi.jpg"></img>
 
 ## Kaynakça:
 • İTÜ - BİDB
